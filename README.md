@@ -1,4 +1,3 @@
 # git-demo
 
-
-some contecst
+some text
